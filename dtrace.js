@@ -1,0 +1,11 @@
+function DTRACE_NET_SERVER_CONNECTION() {
+}
+
+function DTRACE_NET_STREAM_END() {
+}
+
+function DTRACE_HTTP_SERVER_REQUEST() {
+}
+
+function DTRACE_HTTP_SERVER_RESPONSE() {
+}

@@ -1,0 +1,34 @@
+{
+  "name" : "chromify",
+  "version" : "0.0.1",
+  "description" : "browserify plugin for Google Chrome applications",
+  "main" : "index.js",
+  "directories" : {
+    "lib" : ".",
+    "example" : "example",
+    "test" : "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies" : {
+    "browserify" : ">=1.2.7 <1.3",
+    "detective" : ">=0.2"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/tilgovi/node-chromify.git"
+  },
+  "keywords" : [
+    "browserify",
+    "compatible",
+    "browser",
+    "chrome"
+  ],
+  "author" : {
+    "name" : "Randall Leeds",
+    "email" : "randall.leeds@gmail.com",
+    "url" : "http://bleeds.info/"
+  },
+  "license" : "MIT/X11",
+  "engine" : { "node" : ">=0.6" }
+}
