@@ -64,8 +64,7 @@ function TCP(fd) {
     }
     // XXX ignore bind address
     console.log('FIXME: ignoring bind address: using 127.0.0.1');
-    //_addr = '127.0.0.1';
-    _addr = '192.168.2.98'
+    _addr = '127.0.0.1';
     _port = port;
     _bound = true;
   };
